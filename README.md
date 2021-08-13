@@ -1,3 +1,3 @@
 ##
-This file is mandatory in all ALX School projects
+Learning to use git terminal with GitHub
 ##
